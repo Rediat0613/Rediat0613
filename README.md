@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./.github/assets/snake/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/snake/light.svg" />
+  <img alt="contribution snake" src="./.github/assets/snake/dark.svg" width="100%" />
+</picture>
